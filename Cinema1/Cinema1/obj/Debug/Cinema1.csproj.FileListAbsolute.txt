@@ -1,0 +1,10 @@
+C:\Users\P305\source\repos\Cinema1\Cinema1\bin\Debug\Cinema1.exe.config
+C:\Users\P305\source\repos\Cinema1\Cinema1\bin\Debug\Cinema1.exe
+C:\Users\P305\source\repos\Cinema1\Cinema1\bin\Debug\Cinema1.pdb
+C:\Users\P305\source\repos\Cinema1\Cinema1\obj\Debug\Cinema1.csprojResolveAssemblyReference.cache
+C:\Users\P305\source\repos\Cinema1\Cinema1\obj\Debug\Cinema1.Form1.resources
+C:\Users\P305\source\repos\Cinema1\Cinema1\obj\Debug\Cinema1.Properties.Resources.resources
+C:\Users\P305\source\repos\Cinema1\Cinema1\obj\Debug\Cinema1.csproj.GenerateResource.Cache
+C:\Users\P305\source\repos\Cinema1\Cinema1\obj\Debug\Cinema1.csproj.CoreCompileInputs.cache
+C:\Users\P305\source\repos\Cinema1\Cinema1\obj\Debug\Cinema1.exe
+C:\Users\P305\source\repos\Cinema1\Cinema1\obj\Debug\Cinema1.pdb
